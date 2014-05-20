@@ -1,0 +1,38 @@
+body
+  margin 0
+  padding 0
+  border 0
+
+  div#samples
+    margin 1%
+    h1
+      padding-left 0.5em
+    > div
+      font-size 80%
+      float left
+      padding 0 0.5em 0
+      h3
+        font-weight bolder
+        font-size 120%
+        padding 0
+        margin 0
+
+      a
+        font-weight normal
+        display block
+        padding 0
+        margin 0
+        //font-size 80%
+      pre
+        display none
+
+  div#semicount
+    font-size smaller
+
+  textarea
+    &#prg
+      clear both
+
+    float left
+    width 47%
+    margin 1%
